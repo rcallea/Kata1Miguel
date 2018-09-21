@@ -1,1 +1,1 @@
-   class Prueba:
+class Prueba:
